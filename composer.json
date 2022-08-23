@@ -27,7 +27,7 @@
 		"doctrine/migrations": "^3.5",
 		"laminas/laminas-cli": "^1.0.0",
 		"laminas/laminas-servicemanager": "~3.3 || ~4.0",
-		"hamichen/php-cache": "dev-master",
+		"hamichen/php-cache": "^1.0.0",
 		"php": "^8.1 || ^8.0 || ^7.4"
 	},
 	"require-dev": {
