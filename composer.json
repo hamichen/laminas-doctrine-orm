@@ -19,7 +19,7 @@
 	"require": {
 		"psr/container": "^1.0",
 		"doctrine/orm": "^2.10.0",
-		"doctrine/migrations": "^3.3.0",
+		"doctrine/migrations": "^3.5",
 		"laminas/laminas-cli": "^1.0.0",
 		"laminas/laminas-servicemanager": "~3.3 || ~4.0",
 		"skar/php-cache": "dev-master",
