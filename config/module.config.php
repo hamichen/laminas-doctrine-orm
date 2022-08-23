@@ -4,9 +4,9 @@ declare(strict_types=1);
 use Doctrine\ORM;
 use Doctrine\Migrations\Tools\Console\Command as DoctrineCommand;
 use Interop\Container\ContainerInterface;
-use Skar\LaminasDoctrineORM\Service;
-use Skar\LaminasDoctrineORM\Command;
-use Skar\Cache;
+use Hami\LaminasDoctrineORM\Service;
+use Hami\LaminasDoctrineORM\Command;
+use Hami\Cache;
 
 return [
 	'dependencies' => [
@@ -67,7 +67,7 @@ return [
 					'execution_time_column_name' => 'execution_time',
 				],
 				'migrations_paths' => [
-					'Skar\LaminasDoctrineORM' => 'data/migrations',
+					'Hami\LaminasDoctrineORM' => 'data/migrations',
 				],
 				'all_or_nothing'          => true,
 				'check_database_platform' => true,

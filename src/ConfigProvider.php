@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Skar\LaminasDoctrineORM;
+namespace Hami\LaminasDoctrineORM;
 
 class ConfigProvider {
 	/**

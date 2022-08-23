@@ -14,6 +14,11 @@
 			"name": "Skar",
 			"email": "sskarr@gmail.com",
 			"homepage": "http://skar.pw/"
+		},
+		{
+			"name": "Hami",
+			"email": "yingkuang.chen@gmail.com",
+			"homepage": "https://www.cloudschool.tw/"
 		}
 	],
 	"require": {
@@ -22,7 +27,7 @@
 		"doctrine/migrations": "^3.5",
 		"laminas/laminas-cli": "^1.0.0",
 		"laminas/laminas-servicemanager": "~3.3 || ~4.0",
-		"skar/php-cache": "dev-master",
+		"hamichen/php-cache": "dev-master",
 		"php": "^8.1 || ^8.0 || ^7.4"
 	},
 	"require-dev": {
@@ -31,12 +36,12 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Hamichen\\LaminasDoctrineORM\\": "src/"
+			"Hami\\LaminasDoctrineORM\\": "src/"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"Hamichen\\LaminasDoctrineORMTest\\": "test/"
+			"Hami\\LaminasDoctrineORMTest\\": "test/"
 		}
 	},
 	"suggest": {

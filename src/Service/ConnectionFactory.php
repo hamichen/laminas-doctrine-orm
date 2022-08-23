@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Skar\LaminasDoctrineORM\Service;
+namespace Hami\LaminasDoctrineORM\Service;
 
 use Doctrine\DBAL\DBALException;
 use Doctrine\DBAL\DriverManager;
