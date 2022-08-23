@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Skar\LaminasDoctrineORM\Command;
+namespace Hami\LaminasDoctrineORM\Command;
 
 use Doctrine\ORM\EntityManager;
 use Doctrine\Migrations\Configuration\Migration\ConfigurationArray;
