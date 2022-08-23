@@ -31,12 +31,12 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Skar\\LaminasDoctrineORM\\": "src/"
+			"Hamichen\\LaminasDoctrineORM\\": "src/"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"Skar\\LaminasDoctrineORMTest\\": "test/"
+			"Hamichen\\LaminasDoctrineORMTest\\": "test/"
 		}
 	},
 	"suggest": {
